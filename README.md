@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 # 💫 About Me:
 🔭 I’m currently working on an inventory management software using ASP.NET Framework<br>👯 I’m looking to collaborate on Small Projects to further my understanding of different type of softwares<br>🌱 I’m currently learning Machine learning 
